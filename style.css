@@ -53,5 +53,6 @@ button:hover {
 }
 
 .byName {
-  text-align: bottom;
+  margin-top: 50px;
+  color: #f00;
 }
