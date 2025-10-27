@@ -51,3 +51,7 @@ button:hover {
   color: #00ffae;
   text-shadow: 0 0 8px #00ffaa;
 }
+
+.byName {
+  text-align: bottom;
+}
