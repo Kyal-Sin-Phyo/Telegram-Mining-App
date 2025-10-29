@@ -126,8 +126,8 @@ ol, ul, ol {
 /* ----- More ----- */
 
 .menuLists .plus {
-    width: 79px;
-    height: 79px;
+    width: 75px;
+    height: 75px;
     border: 3px solid #00eeff;
     box-shadow: 0 0 25px #00eeff;
     align-content: center;
