@@ -46,7 +46,6 @@ ol, ul, ol {
 .main {
     width: 100%;
     height: 90vh;
-    border: 2px solid #ff0;
     text-align: center;
     align-content: center;
     justify-items: center;
@@ -66,9 +65,9 @@ ol, ul, ol {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 85%;
+    width: 90%;
     height: 10vh;
-    border-radius: 30px;
+    border-radius: 25px;
     border: 2px solid #ffffff;
     background-color: #00108855;
     backdrop-filter: blur(7px);
@@ -127,8 +126,8 @@ ol, ul, ol {
 /* ----- More ----- */
 
 .menuLists .plus {
-    width: 80px;
-    height: 80px;
+    width: 79px;
+    height: 79px;
     border: 3px solid #00eeff;
     box-shadow: 0 0 25px #00eeff;
     align-content: center;
