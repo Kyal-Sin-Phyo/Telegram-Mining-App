@@ -57,7 +57,7 @@ ol, ul, ol {
     align-items: center;
     width: 90%;
     height: 75px;
-    border-radius: 15px;
+    border-radius: 25px;
     border: 2px solid #fff3;
     backdrop-filter: blur(8px);
     position: fixed;
@@ -194,4 +194,5 @@ ol, ul, ol {
     font-size: 10px;
     color: #fff;
 }
+
 
