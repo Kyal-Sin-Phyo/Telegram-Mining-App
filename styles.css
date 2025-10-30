@@ -38,6 +38,7 @@ ol, ul, ol {
     background: linear-gradient(90deg, #8c52ff, #00bf63);
     text-align: center;
     align-content: center;
+    
     color: #fff;
     font-size: 16px;
 }
@@ -291,4 +292,5 @@ ol, ul, ol {
     text-align: center;
     font-size: 10px;
     color: #fff;
+
 }
