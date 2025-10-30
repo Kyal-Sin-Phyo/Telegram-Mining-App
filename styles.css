@@ -129,12 +129,12 @@ ol, ul, ol {
     transition: all 0.3s ease-out;
 }
 .main .menuBar .menuItems.plus .subMenu.subMenuLeft {
-    left: 80px;
+    left: 50px;
     transform: translateX(-100px);
 
 }
 .main .menuBar .menuItems.plus .subMenu.subMenuRight {
-    right: 80px;
+    right: 50px;
     transform: translateX(100px);
 }
 
@@ -184,4 +184,5 @@ ol, ul, ol {
     text-align: center;
     font-size: 10px;
     color: #fff;
+
 }
