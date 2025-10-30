@@ -90,10 +90,10 @@ ol, ul, ol {
 }
 
 .menuItems.left {
-    left: 10px;
+    left: -30px;
 }
 .menuItems.right {
-    right: 10px;
+    right: -30px;
 }
 
 .menuItems .menuLinks {
