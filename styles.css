@@ -139,7 +139,7 @@ ol, ul, ol {
     justify-content: space-around;
     border-radius: 50%;
     transition: all 0.3s ease-out;
-    position: relative;
+    position: fixed;
     overflow: hidden;
 }
 
