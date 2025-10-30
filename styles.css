@@ -162,7 +162,7 @@ ol, ul, ol {
 }
 .main .menuBar .menuItems.plus:hover {
     width: 99%;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 
@@ -194,5 +194,6 @@ ol, ul, ol {
     font-size: 10px;
     color: #fff;
 }
+
 
 
