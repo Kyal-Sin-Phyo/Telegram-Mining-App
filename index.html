@@ -20,7 +20,7 @@
                 <p class="msg">Welcome to the Takashi Mini App Services</p>
                 <p class="moto">Base On Truth</p>
 
-                <a href="services.html" class="gotoSer">View Services</a>
+                <a href="#" class="gotoSer">View Services</a>
             </div>
 
         </div>
@@ -96,7 +96,17 @@
         </div>
 
     </div>
-    
+
+    <script>
+
+        let btn = document.querySelector('.gotoSer');
+
+        btn.onclick = function() {
+            alert('Width : ' + screen.width + ' px ' + '\n' + 'Height : ' + screen.height + ' px')
+        }
+
+    </script>
 
 </body>
+
 </html>
