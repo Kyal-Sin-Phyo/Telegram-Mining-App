@@ -110,7 +110,7 @@ a {
 /* ===== Menu Bar ===== */
 .menuBar {
     width: 90%;
-    height: 0;
+    height: 80px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -122,7 +122,6 @@ a {
     overflow: hidden;
     position: relative;
     bottom: 5px;
-    padding: 10px 0;
     z-index: 5;
 }
 
@@ -283,6 +282,7 @@ a {
 
 
 }
+
 
 
 
