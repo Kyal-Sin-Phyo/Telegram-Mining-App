@@ -200,8 +200,8 @@ a {
 .menuBar .plus:hover,
 .menuBar:has(.subMenu:hover) .plus {
     width: 99%;
-    height: 64px;
-    border-radius: 30px;
+    height: 70px;
+    border-radius: 28px;
 }
 .menuBar:has(.menuItems.plus:hover) .menuItems:not(.menuItems.plus),
 .menuBar:has(.subMenu:hover) .menuItems:not(.menuItems.plus) {
@@ -282,6 +282,7 @@ a {
 
 
 }
+
 
 
 
