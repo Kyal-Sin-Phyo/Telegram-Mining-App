@@ -166,8 +166,8 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 68px;
-    height: 68px;
+    width: 65px;
+    height: 65px;
     border: none;
     border-radius: 50%;
     background-color: #fff5;
@@ -200,6 +200,7 @@ a {
 .menuBar .plus:hover,
 .menuBar:has(.subMenu:hover) .plus {
     width: 99%;
+    height: 64px;
     border-radius: 30px;
 }
 .menuBar:has(.menuItems.plus:hover) .menuItems:not(.menuItems.plus),
@@ -281,6 +282,7 @@ a {
 
 
 }
+
 
 
 
