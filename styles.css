@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 360px;
+    width: 370px;
     height: 100vh;
     border: 2px solid #f00;
     margin: 0 auto;
@@ -278,5 +278,6 @@ a {
     body {
         background-color: #f00;
     }
+
 
 }
