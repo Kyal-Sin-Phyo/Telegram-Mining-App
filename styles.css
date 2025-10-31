@@ -199,7 +199,7 @@ a {
 .menuBar .plus:has(.plusBtn:hover),
 .menuBar .plus:hover,
 .menuBar:has(.subMenu:hover) .plus {
-    width: 99%;
+    width: 98%;
     height: 70px;
     border-radius: 28px;
 }
@@ -282,6 +282,7 @@ a {
 
 
 }
+
 
 
 
