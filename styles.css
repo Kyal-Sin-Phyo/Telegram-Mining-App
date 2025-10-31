@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 360px;
+    width: 100vw;
     height: 100vh;
     margin: 0 auto;
     background: url('https://i.pinimg.com/736x/61/ee/1d/61ee1deec714fe1a541364304ddd8d18.jpg') no-repeat center center / cover;
@@ -280,6 +280,7 @@ a {
 
 
 }
+
 
 
 
