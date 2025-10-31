@@ -121,6 +121,7 @@ a {
     backdrop-filter: blur(10px);
     overflow: hidden;
     position: relative;
+    bottom: 20px;
     z-index: 5;
 }
 
@@ -281,6 +282,7 @@ a {
 
 
 }
+
 
 
 
