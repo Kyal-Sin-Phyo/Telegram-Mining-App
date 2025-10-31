@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 370px;
+    width: 380px;
     height: 100vh;
     border: 2px solid #f00;
     margin: 0 auto;
@@ -281,3 +281,4 @@ a {
 
 
 }
+
