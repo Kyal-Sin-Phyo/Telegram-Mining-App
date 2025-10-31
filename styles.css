@@ -110,7 +110,7 @@ a {
 /* ===== Menu Bar ===== */
 .menuBar {
     width: 90%;
-    height: 9vh;
+    height: 10vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -280,6 +280,7 @@ a {
 
 
 }
+
 
 
 
