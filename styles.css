@@ -153,7 +153,7 @@ ul, li {
     -moz-background-clip: text;
     background-clip: text;
     color: transparent;
-    font-size: 23px;
+    font-size: 20px;
     line-height: 40px;
     font-weight: bold;
 }
@@ -395,4 +395,5 @@ ul, li {
     margin: 0 30px 0 15px;
 
 }
+
 
