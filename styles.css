@@ -187,7 +187,8 @@ a {
     transition: all 0.3s ease-out;
 }
 
-.menuBar .menuItems:nth-child(1) {
+.menuBar .menuItems:nth-child(1),
+.menuBar .menuItems.leftSubMenu {
     margin: 0 50px 0 0;
 }
 
@@ -305,6 +306,7 @@ a {
     color: #fff;
     font-size: 5px;
 }
+
 
 
 
