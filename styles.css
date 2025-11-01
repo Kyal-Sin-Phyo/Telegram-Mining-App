@@ -148,8 +148,7 @@ a {
     width: 160px;
     height: 45px;
     text-align: center;
-    align-content: center;
-    align-item: center;
+
     border-radius: 20px;
     border: 2px solid #7b00ff;
     background-color: #7b00ff;
@@ -306,6 +305,7 @@ a {
     color: #fff;
     font-size: 6px;
 }
+
 
 
 
