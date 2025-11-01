@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Press Start 2p', sans-serif;
 }
 html {
     width: 100%;
     height: auto;
+    font-family: 'Press Start 2p', sans-serif;
 }
 
 body {
@@ -304,8 +304,10 @@ a {
     text-align: center;
     align-content: center;
     color: #fff;
-    font-size: 5px;
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 
 
