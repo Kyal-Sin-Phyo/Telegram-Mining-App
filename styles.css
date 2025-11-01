@@ -84,7 +84,7 @@ a {
 .main .greet .greetTxt {
     width: 98%;
     height: 45px;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 20px;
     text-align: center;
     align-content: center;
@@ -148,7 +148,7 @@ a {
     -moz-background-clip: text;
     background-clip: text;
     color: transparent;
-    font-size: 23px;
+    font-size: 21px;
     line-height: 40px;
     font-weight: bold;
 }
@@ -367,5 +367,6 @@ a {
     font-size: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 
