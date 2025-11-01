@@ -91,6 +91,8 @@ a {
 .welcomeMsg .msbBox .msg {
     width: 50%;
     background: linear-gradient(90deg, #8c52ff, #00bf63);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
     background-clip: text;
     color: transparent;
     font-size: 20px;
@@ -303,5 +305,6 @@ a {
     color: #fff;
     font-size: 6px;
 }
+
 
 
