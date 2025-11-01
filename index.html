@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <script scr="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
 
@@ -151,13 +151,12 @@
         const tg = window.Telegram.WebApp;
         const user = tg.initDataUnsafe.user;
 
-        document.querySelector('.gotoSer').onclick = function() {
-            alert(user);
-        }
+        console.log(user);
         
     </script>
 
 </body>
 
 </html>
+
 
