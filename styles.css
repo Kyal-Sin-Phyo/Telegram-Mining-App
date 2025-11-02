@@ -81,7 +81,7 @@ ul, li {
     height: 55px;
     text-align: center;
     border: 2px solid #000;
-    font-size: 18px;
+    font-size: 16px;
     margin: 0 0 20px;
     color: #fff;
     position: relative;
@@ -180,7 +180,7 @@ ul, li {
 }
 
 .welcomeMsg .msbBox img.jump {
-    width: 50%;
+    width: 45%;
     height: 50%;
     margin: 0 auto 40px;
     position: absolute;
@@ -457,4 +457,5 @@ ul, li {
     padding: 5px 0;
     margin: 5px 0 0;
     background-color: #000;
+
 }
