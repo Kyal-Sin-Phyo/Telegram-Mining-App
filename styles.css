@@ -80,10 +80,10 @@ ul, li {
     width: 350px;
     height: 55px;
     text-align: center;
-    line-height: 20px;
+    line-height: 30px;
     border: 2px solid #000;
     font-size: 16px;
-    margin: 0 auto 20px;
+    margin: 20px auto;
     color: #fff;
     position: relative;
     z-index: 2;
