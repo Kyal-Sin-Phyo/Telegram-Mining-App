@@ -80,7 +80,6 @@ ul, li {
     width: 350px;
     height: 55px;
     text-align: center;
-    line-height: 30px;
     border: 2px solid #000;
     font-size: 16px;
     margin: 20px auto;
@@ -93,6 +92,7 @@ ul, li {
 .main .greet .greetTxt {
     width: 340px;
     height: 45px;
+    line-height: 45px;
     text-align: center;
     align-content: center;
     background-color: #000;
