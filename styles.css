@@ -342,11 +342,11 @@ ul, li {
 }
 
 .menuBar .leftSubMenu {
-    left: 50px;
+    left: 10px;
     bottom: 100px;
 }
 .menuBar .rightSubMenu {
-    right: 50px;
+    right: 10px;
     bottom: 100px;
 }
 
@@ -455,4 +455,5 @@ ul, li {
     margin: 5px 0 0;
     padding: 5px 0;
     background-color: #000;
+
 }
