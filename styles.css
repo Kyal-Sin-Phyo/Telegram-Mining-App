@@ -337,7 +337,6 @@ ul, li {
     position: absolute;
     width: 75px;
     height: 67px;
-    /* border: 1px solid #ff0; */
     z-index: 1;
 }
 
@@ -363,7 +362,7 @@ ul, li {
 
 /* ===== Items ===== */
 .main .itemsLists {
-    width: 90%;
+    width: 350px;
     height: auto;
 
 }
@@ -457,5 +456,6 @@ ul, li {
     background-color: #000;
 
 }
+
 
 
