@@ -355,9 +355,8 @@ ul, li {
 
 /* ===== Items ===== */
 .main .itemsLists {
-    width: 350px;
+    width: 95%;
     height: auto;
-    border: 5px solid #00f;
     margin: 0 auto;
 }
 
