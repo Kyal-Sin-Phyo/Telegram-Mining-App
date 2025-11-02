@@ -315,8 +315,7 @@ ul, li {
 .menuBar .plus:has(.plusBtn:hover),
 .menuBar .plus:hover,
 .menuBar:has(.subMenu:hover) .plus {
-    width: 98%;
-    height: 67px;
+    width: 97%;
     border-radius: 28px;
 }
 .menuBar:has(.menuItems.plus:hover) .menuItems:not(.menuItems.plus),
@@ -459,5 +458,6 @@ ul, li {
     background-color: #000;
 
 }
+
 
 
