@@ -357,7 +357,7 @@ ul, li {
 .main .itemsLists {
     width: 350px;
     height: auto;
-
+    border: 5px solid #00f;
 }
 
 .main .itemsLists .item {
